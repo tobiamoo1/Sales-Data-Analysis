@@ -3,4 +3,4 @@ The aim of this project is to analyse sales data to uncover insights that can gu
 
 To achieve this, analysis of sales data from a company was conducted using Tableau. The data was imported, cleaned and analysed and then visualisations were created to communicate the findings.
 
-The dataset used is in the folder “Datasets”, which contains Combined Sales Data, Sales, Customers, Monthly Sales Targets, 2023 & 2024 Sales, Pivoted Monthly Sales, and Products files.
+The dataset are the Combined Sales Data, Sales, Customers, Monthly Sales Targets, 2023 & 2024 Sales, Pivoted Monthly Sales, and Products files.
