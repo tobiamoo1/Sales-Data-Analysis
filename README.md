@@ -1,6 +1,8 @@
 # Sales-Data-Analysis
-The aim of this project is to analyse sales data to uncover insights that can guide business decisions and uncover new opportunities
+The aim of this project is to analyse sales data of a company to uncover insights that can guide business decisions and uncover new opportunities.
 
-To achieve this, analysis of sales data from a company was conducted using Tableau. The data was imported, cleaned and analysed and then visualisations were created to communicate the findings.
+To achieve this, analysis of sales data from the company was conducted using Tableau. The data was imported, cleaned and analysed using unions, pivots, blends, and joins. Calculated fields were also created and aggregation applied to show SUM functions. Then a storyboard was created to include all the visualisations created. That storyboard was uploaded from Tableau Public Desktop Edition to the Tableau Public website.
 
-The dataset are the Combined Sales Data, Sales, Customers, Monthly Sales Targets, 2023 & 2024 Sales, Pivoted Monthly Sales, and Products files.
+The dataset used were the Combined Sales Data, Sales, Customers, Monthly Sales Targets, 2023 & 2024 Sales, Pivoted Monthly Sales, and Products files.
+
+Tools used were Tableau Public Desktop Edition, Tableau Public website.
