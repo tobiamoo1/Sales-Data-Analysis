@@ -1,3 +1,4 @@
+<img width="668" height="808" alt="Sales Data" src="https://github.com/user-attachments/assets/bda7f4eb-9ae6-46db-9de0-47f578d5d7ea" />
 # Sales-Data-Analysis
 The aim of this project is to analyse sales data of a company to uncover insights that can guide business decisions and uncover new opportunities.
 
