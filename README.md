@@ -8,4 +8,4 @@ The dataset used were the Combined Sales Data, Sales, Customers, Monthly Sales T
 
 Tools used were Tableau Public Desktop Edition, Tableau Public website.
 
-![Sales Data](Sales Data.png)
+
