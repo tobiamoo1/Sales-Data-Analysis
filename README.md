@@ -8,3 +8,5 @@ To achieve this, analysis of sales data from the company was conducted using Tab
 The dataset used were the Combined Sales Data, Sales, Customers, Monthly Sales Targets, 2023 & 2024 Sales, Pivoted Monthly Sales, and Products files.
 
 Tools used were Tableau Public Desktop Edition, Tableau Public website.
+
+![Sales Data](Sales Data.png)
